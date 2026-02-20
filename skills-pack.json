@@ -1,0 +1,54 @@
+[
+  {
+    "skill": "seo-audit",
+    "path": "skills/seo-audit"
+  },
+  {
+    "skill": "programmatic-seo",
+    "path": "skills/programmatic-seo"
+  },
+  {
+    "skill": "copywriting",
+    "path": "skills/copywriting"
+  },
+  {
+    "skill": "copy-editing",
+    "path": "skills/copy-editing"
+  },
+  {
+    "skill": "content-strategy",
+    "path": "skills/content-strategy"
+  },
+  {
+    "skill": "marketing-ideas",
+    "path": "skills/marketing-ideas"
+  },
+  {
+    "skill": "marketing-psychology",
+    "path": "skills/marketing-psychology"
+  },
+  {
+    "skill": "product-marketing-context",
+    "path": "skills/product-marketing-context"
+  },
+  {
+    "skill": "pricing-strategy",
+    "path": "skills/pricing-strategy"
+  },
+  {
+    "skill": "page-cro",
+    "path": "skills/page-cro"
+  },
+  {
+    "skill": "launch-strategy",
+    "path": "skills/launch-strategy"
+  },
+  {
+    "skill": "analytics-tracking",
+    "path": "skills/analytics-tracking"
+  },
+  {
+    "skill": "schema-markup",
+    "path": "skills/schema-markup"
+  }
+]
