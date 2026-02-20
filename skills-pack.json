@@ -1,5 +1,9 @@
 [
   {
+    "skill": "audit-website",
+    "path": "skills/audit-website"
+  },
+  {
     "skill": "seo-audit",
     "path": "skills/seo-audit"
   },
